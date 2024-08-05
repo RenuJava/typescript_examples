@@ -1,0 +1,18 @@
+var numbers = [1, 2, 3];
+console.log(numbers);
+var names = ["Alice", "Bob", "Charlie"];
+console.log(names);
+var fruits = [];
+fruits.push("Apple");
+fruits.push("Banana");
+fruits.push("Orange");
+console.log(fruits);
+var message = "Hello Typescript";
+console.log(message);
+var text = "Typescript";
+var trimText = text.trim();
+console.log(trimText);
+var age = 25;
+console.log(age);
+var isStudent = true;
+console.log(isStudent);
