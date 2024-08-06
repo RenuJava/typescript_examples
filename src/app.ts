@@ -23,4 +23,13 @@ console.log(age);
 let isStudent: boolean = true;
 console.log(isStudent);
 
+let ids: number[] = [1,2,3];
+console.log(ids);
 
+let names1: string[] = ["Alice", "Bob", "Charlie"];
+let exists: boolean = names1.includes("Charlie");
+console.log(exists);
+
+let text1: string = "Typescript";
+let upperCaseText1: string = text1.toUpperCase();
+console.log(upperCaseText1);
